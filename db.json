@@ -1,0 +1,30 @@
+{
+  "Currency": [
+    {
+      "id": 1,
+      "title": "Dollar"
+    },
+    {
+      "id": 2,
+      "title": "Euro"
+    },
+    {
+      "id": 3,
+      "title": "Rubble"
+    }
+  ],
+  "CardType": [
+    {
+      "id": 1,
+      "name": "Mastercard"
+    },
+    {
+      "id": 2,
+      "name": "Visa"
+    },
+    {
+      "id": 3,
+      "name": "Maestro"
+    }
+  ]
+}
