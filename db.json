@@ -26,5 +26,61 @@
       "id": 3,
       "name": "Maestro"
     }
+  ],
+  "Acquirer": [
+    {
+      "id": 1,
+      "name": "Bank of America"
+    },
+    {
+      "id": 2,
+      "name": "Bank of German"
+    },
+    {
+      "id": 3,
+      "name": "Bank of Russia"
+    }
+  ],
+  "PaymentMethod": [
+    {
+      "id": 1,
+      "name": "Pay by card"
+    },
+    {
+      "id": 2,
+      "name": "Pay by check"
+    },
+    {
+      "id": 3,
+      "name": "Dont pay at all"
+    }
+  ],
+  "Payment type": [
+    {
+      "id": 1,
+      "name": "credit card"
+    },
+    {
+      "id": 2,
+      "name": "debit card"
+    },
+    {
+      "id": 3,
+      "name": "store value card"
+    }
+  ],
+  "Store": [
+    {
+      "id": 1,
+      "name": "Store №1"
+    },
+    {
+      "id": 2,
+      "name": "Store №2"
+    },
+    {
+      "id": 3,
+      "name": "Store №3"
+    }
   ]
 }
