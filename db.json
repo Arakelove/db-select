@@ -41,20 +41,6 @@
       "name": "Bank of Russia"
     }
   ],
-  "PaymentMethod": [
-    {
-      "id": 1,
-      "name": "Pay by card"
-    },
-    {
-      "id": 2,
-      "name": "Pay by check"
-    },
-    {
-      "id": 3,
-      "name": "Dont pay at all"
-    }
-  ],
   "Payment type": [
     {
       "id": 1,
